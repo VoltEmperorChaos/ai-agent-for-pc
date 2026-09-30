@@ -1,5 +1,5 @@
 # AI Agent for PC
-
+![AI Agent Preview](./ImGui.png) 
 A simple and lightweight AI agent designed to run directly on a Windows PC.
 
 ## Overview
